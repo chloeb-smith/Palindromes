@@ -1,0 +1,22 @@
+Palindromes from wordList.txt 
+---------------------------------
+a
+civic
+eye
+I
+kayak
+level
+madam
+noon
+racecar
+radar
+redder
+refer
+repaper
+rotator
+rotor
+sagas
+solos
+stats
+tenet
+wow
